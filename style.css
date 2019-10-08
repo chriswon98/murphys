@@ -1,0 +1,27 @@
+html* {
+  font-family: "Open Sans", sans-serif !important;
+}
+
+.grad-background {
+  background: url('http://murphyshawaii.com/media/2014/04/murphys-front.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+}
+
+.grad-background .text {
+  text-align: center;
+  color: white;
+  padding-top: 175px;
+}
+
+.grad-background .item {
+  padding-top: 100px;
+}
+
+.footer-background {
+  background-color: #004030;
+}
+
+.footer-background .item {
+  color: white;
+}
